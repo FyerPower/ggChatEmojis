@@ -1,0 +1,11 @@
+## Title: ggChatEmojis
+## Version: 1.0
+## Author: Michael Lynch (@gamegenius86)
+## Description: Adds Game Emojis to Chat
+## APIVersion: 100003
+
+lib/LibStub.lua
+lib/libChat.lua
+
+ggChatEmojis.lua
+emojiList.lua
